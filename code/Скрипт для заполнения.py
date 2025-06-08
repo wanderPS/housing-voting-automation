@@ -59,10 +59,10 @@ final_doc = SpireDocument()
 
 # Статические данные
 home_data = {
-    "home_number": "153",
+    "home_number": "100",
     "home_street": "ул. Красная",
     "home_town": "г. Краснодар",
-    "home_sqm": "4106",
+    "home_sqm": "4200",
     "home_votes": "100"
 }
 
